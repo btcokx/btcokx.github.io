@@ -1,7 +1,6 @@
 ---
 layout: post
-comments: false
-categories: paracraft
+categories: paracraft1
 ---
 
 ## Empty diary template
