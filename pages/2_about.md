@@ -1,12 +1,9 @@
 ---
 layout: page
-title: About
+title: 关于我
 comments: false
 permalink: /about/
 ---
-
-* content
-{:toc}
 
 ## 关于网站
 This is a personal website of LiXizhi, created with github and jekyll. 
